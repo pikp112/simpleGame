@@ -1,0 +1,22 @@
+.bodyClass{
+    background-color: rgb(182, 229, 190);
+}
+
+.container {
+  width: 75%;
+  margin: 100px auto;
+  padding: 5px;
+  box-shadow: 5px 5px 10px #888;
+  text-align: center;
+  background-color: rgb(241, 247, 245);
+}
+
+input,
+button {
+  padding: 10px;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
