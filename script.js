@@ -19,7 +19,7 @@ btn.addEventListener("click", () => {
     resetGame();
     return;
   }
-  if (val.value == 0 || isNaN(val.value)) {
+  if (val.value==0 || isNaN(val.value)) {
     alert("Input a number.");
     return;
   }
